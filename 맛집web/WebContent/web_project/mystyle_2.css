@@ -1,0 +1,178 @@
+body {
+	background-color: #ffd700;
+	width: 100%;
+	margin-top: 30px;
+	
+}
+
+#main_top {
+	padding-right: 220px;
+}
+
+#logo {
+	padding-bottom: 25px;
+}
+
+#se {
+	float: left;
+	width: 100%;
+}
+
+#se_1 {
+	float: left;
+	width: 100%;
+}
+
+#se_2 {
+	float: left;
+	width: 100%;
+	list-style: none;
+}
+
+#se_3 {
+	float: left;
+	list-style: none;
+}
+
+#main_menu {
+	padding-bottom: 7px;
+}
+
+#main_body {
+	padding-top: 15px;
+	padding-left: 15px;
+	list-style: none;
+	float: left;
+	/* float: left; 
+	border:1px solid gray; */
+	color : #00ff00;
+}
+
+#main_body_2 {
+	margin-bottom:20px;
+	padding-left: 0px;
+	border:1px solid gray;
+}
+
+#main_body_3 {
+	padding-top: 4px;
+	padding-left: 0px;
+	list-style: none;
+	float: left;
+}
+
+#main_body_4 {
+	padding-top: 40px;
+	padding-left: 50px;
+	list-style: none;
+	float: left;
+}
+
+#main_body_5 {
+	width: 450px;
+	list-style: none;
+	float: center;
+}
+#main_body_6 {
+	padding-top: 0px;
+	padding-left: 0px;
+	
+}
+#main_body_7 {
+	padding-top: 00px;
+	padding-left: 100px;
+	list-style: none;
+	float: left;
+
+
+}
+
+
+#main_bo_1 {
+	padding-bottom: 10px;
+}
+
+#main_bo_2 {
+	padding-bottom: 130px;
+}
+
+#main_bo_3 {
+	padding-bottom: 50px;
+	
+}
+
+#main_bo_4 {
+	padding-bottom: 400px;
+	
+}
+
+#li_a {
+	padding-top: 15px;
+	padding-left: 0px;
+	list-style: none;
+	float: left;
+	margin-left: 15px;
+	/*border:5px solid gray;*/ 
+	font-color : #000000;
+}
+
+#li_b {
+	padding-left: 10px;
+	list-style: none;
+	float: left;
+	/*border:5px solid gray; 
+	color : #ffffff;*/
+}
+
+#li_c {
+	padding-top: 50px;
+	padding-left: 20px;
+	list-style: none;
+	float: left;
+
+}
+
+#li_c_2 {
+	padding-top: 50px;
+	padding-left: 25px;
+	list-style: none;
+	float: left;
+
+}
+
+#li_d {
+	padding-top: 25px;
+	padding-left: 60px;
+	list-style: none;
+	float: left;
+}
+
+#text_1 {
+	padding-left: 5px;
+	font-family: "맑은고딕";
+	color: #FFFFFF;
+}
+
+#write {
+	padding-left: 550px;
+}
+
+#dml_btn {
+	padding-left: 100px;
+
+}
+
+#a {
+	width: 50px;
+	padding-top: 5px;
+	border-style: solid;
+	border-width: 1px;
+}
+
+#asd {
+	padding-top: 100px;
+	width:10px;
+}
+#bol {
+		float: left;
+}
